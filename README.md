@@ -1,4 +1,4 @@
-# days-cn
+# days-cn [![NPM version](https://img.shields.io/npm/v/days-cn.svg?style=flat)](https://www.npmjs.com/package/days-cn)
 
 > Days of the week in zh_cn. See https://github.com/datetime/days in EN.
 
