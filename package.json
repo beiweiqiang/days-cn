@@ -1,0 +1,39 @@
+{
+    "name": "days-cn",
+    "description": "Days of the week in zh_cn.",
+    "version": "1.0.0",
+    "homepage": "https://github.com/beiweiqiang/days-cn",
+    "author": "beiweiqiang (https://github.com/beiweiqiang/days-cn)",
+    "repository": "beiweiqiang/days-cn",
+    "bugs": {
+      "url": "https://github.com/beiweiqiang/days-cn/issues"
+    },
+    "license": "MIT",
+    "files": [
+      "index.js"
+    ],
+    "main": "index.js",
+    "engines": {
+      "node": ">=0.10.0"
+    },
+    "devDependencies": {},
+    "keywords": [
+      "calendar",
+      "date",
+      "day",
+      "days",
+      "duration",
+      "friday",
+      "monday",
+      "now",
+      "saturday",
+      "sunday",
+      "thursday",
+      "time",
+      "timespan",
+      "tuesday",
+      "wednesday",
+      "week",
+      "weekday"
+    ]
+  }
